@@ -19,7 +19,7 @@ class App extends Component {
             </div>
             <div className="col-9">   
               <div className="row">
-                <div className="col-12">
+                <div className="col-12 no-gutter">
                   <ShowResult/>
                 </div>
               </div> 

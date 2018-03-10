@@ -1,7 +1,7 @@
 {
   "name": "calculator-react",
   "version": "0.1.0",
-  "authors":"Gessenia Canales, Lidia Ramirez, Milagros Palma, Lizbeth Felix",
+  "authors": "Gessenia Canales, Lidia Ramirez, Milagros Palma, Lizbeth Felix",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
