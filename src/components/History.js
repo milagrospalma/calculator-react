@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-
+import './css/History.css';
 
 class History extends Component {
   render() {
     return (
-      <div>
-      </div>
+      <li className="record">
+        100
+      </li>
     );
   }
 }

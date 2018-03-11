@@ -1,0 +1,8 @@
+.historyList {
+  border: 1px solid black !important;
+  height: 85vh;
+  list-style: none;
+  padding: 0 0.5em;
+  margin: 0;
+  text-align: right;
+}

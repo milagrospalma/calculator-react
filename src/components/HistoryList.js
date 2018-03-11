@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
-// estilos para la calculadora
-
 import History from './History';
+import './css/HistoryList.css';
 
 class HistoryList extends Component {
   render() {
     return (
-      <div>
-        <History/>
-      </div>
+      <ul className="historyList">
+        <History />
+      </ul>
     );
   }
 }
